@@ -34,3 +34,5 @@ print(df_students)
 df_sorted = df_students.sort_values(by='Score', ascending=False)
 print("\nSắp xếp theo Score giảm dần:")
 print(df_sorted)
+
+nha
